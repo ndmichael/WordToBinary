@@ -2,9 +2,8 @@
 
 WordToBinary Converter
 This code is up for Optimization,
-your contribution is welcome, coz its a means for me to learn
 
-This code converts user inputed words to its binary equivalence
+This short code converts user inputed words to its binary equivalence
 First the words are converted into  ASCII using ord()
 then converted to binary which is formatted and printed
 
